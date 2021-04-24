@@ -1,15 +1,15 @@
 # Cyclegan
 
-![alt text](https://github.com/VirajBagal/cyclegan/tree/main/Images/cyclegan.png?raw=true)
+![alt text](https://github.com/VirajBagal/cyclegan/blob/main/Images/cyclegan.png)
 
 In this repository, I train a CycleGAN to convert photos to Monet-like paintings and Monet paintings to photos. 
 
 # Generated Output
 
 
-![alt text](https://github.com/VirajBagal/cyclegan/tree/main/Images/sample1.png?raw=true)
-![alt text](https://github.com/VirajBagal/cyclegan/tree/main/Images/sample2.png?raw=true)
-![alt text](https://github.com/VirajBagal/cyclegan/tree/main/Images/sample3.png?raw=true)
+![alt text](https://github.com/VirajBagal/cyclegan/blob/main/Images/sample1.png)
+![alt text](https://github.com/VirajBagal/cyclegan/blob/main/Images/sample2.png)
+![alt text](https://github.com/VirajBagal/cyclegan/blob/main/Images/sample3.png)
 
 # Train on Custom data
 
